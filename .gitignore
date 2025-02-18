@@ -2,3 +2,7 @@
 MNIST
 data
 example.py
+# Ignore large files
+myenv310/
+myenv310/lib/
+myenv310/lib/python3.10/site-packages/torch/lib/libtorch_cpu.dylib
