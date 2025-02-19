@@ -1,7 +1,7 @@
-*.png
-MNIST
-data
+MNIST/
+data/
 example.py
+myenv310/
 # Ignore large files
 
 myenv310/
